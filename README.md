@@ -51,7 +51,6 @@ docker compose ps
 ### 4. 啟動前端
 
 ```bash
-cd frontend
 cp .env.example .env.local   # 填入對應的環境變數
 npm install --legacy-peer-deps
 npm run dev
