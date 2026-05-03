@@ -24,7 +24,7 @@ cd my-vexa-project
 ### 2. 設定環境變數
 
 ```bash
-cp .env.example .env
+cp .env.example .env.local
 ```
 
 向隊友索取以下值並填入 `.env`：
